@@ -1,0 +1,2 @@
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrementContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Benjamin\Desktop\carrement\carrement\carrementContent\obj\x86\Debug\carrementContent.contentprojResolveAssemblyReference.cache

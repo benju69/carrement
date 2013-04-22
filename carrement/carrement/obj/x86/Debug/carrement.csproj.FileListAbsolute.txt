@@ -1,0 +1,18 @@
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\bin\x86\Debug\carrement.exe
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\bin\x86\Debug\carrement.pdb
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\obj\x86\Debug\carrement.exe
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\obj\x86\Debug\carrement.pdb
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\bin\x86\Debug\Content\damier.xnb
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\bin\x86\Debug\Content\piece1.xnb
+C:\Users\marc\Documents\Visual Studio 2010\Projects\carrement\carrement\carrement\bin\x86\Debug\Content\piece2.xnb
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\obj\x86\Debug\carrement.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\obj\x86\Debug\carrement.exe
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\bin\x86\Debug\Content\damier.xnb
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\bin\x86\Debug\Content\piece1.xnb
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\bin\x86\Debug\Content\piece2.xnb
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\bin\x86\Debug\carrement.exe
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\bin\x86\Debug\carrement.pdb
+C:\Users\Benjamin\Desktop\carrement\carrement\carrement\obj\x86\Debug\carrement.pdb
