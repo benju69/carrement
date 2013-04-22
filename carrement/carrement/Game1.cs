@@ -22,6 +22,8 @@ namespace carrement
 
         Board board;
         PlayerOne playerone;
+
+        MouseState _previousState;
       
 
         public Game1()
@@ -60,7 +62,7 @@ namespace carrement
 
             // TODO: use this.Content to load your game content here
             Texture2D tex = Content.Load<Texture2D>("damier");            
-            board = new Board(tex.Height, tex.Width, tex);
+            board = new Board(tex.Height, tex.Width, tex, new Vector2(0,0));
 
             tex = Content.Load<Texture2D>("piece1");
             //Piece.PieceMaster
@@ -88,6 +90,35 @@ namespace carrement
                 this.Exit();
 
             // TODO: Add your update logic here
+
+            /*MouseState mouseState = new MouseState();
+
+
+            Rectangle buttonRect = new Rectangle((int)this.board._position.X, (int)this.board._position.Y , this.board.boardTexture.Width, this.board.boardTexture.Height);
+            Point mousePoint = new Point(mouseState.X, mouseState.Y);
+            Point previousPoint = new Point(_previousState.X, _previousState.Y);
+
+            this.IsMouseOver = false;
+
+            if (buttonRect.Contains(mousePoint))
+            {
+                this.IsMouseOver = true;
+
+                if (!buttonRect.Contains(previousPoint))
+                    if (OnMouseEnter != null)
+                        OnMouseEnter(this);
+
+                if (_previousState.LeftButton == ButtonState.Released && mouseState.LeftButton == ButtonState.Pressed)
+                    if (OnClick != null)
+                        OnClick(this);
+            }
+            else if (buttonRect.Contains(previousPoint))
+            {
+                if (OnMouseLeave != null)
+                    OnMouseLeave(this);
+            }
+
+            _previousState = mouseState;*/
 
             base.Update(gameTime);
         }

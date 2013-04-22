@@ -10,7 +10,6 @@ namespace carrement
 {
     class Board
     {
-
         private float _width;
         private float _withTile;
         private float _height;
@@ -21,7 +20,9 @@ namespace carrement
         
         public Texture2D boardTexture;
 
-        public Board (float width, float height, Texture2D boardTex)
+        public Vector2 _position;
+
+        public Board (float width, float height, Texture2D boardTex, Vector2 position)
         {
             _height = height;
             _width = width;
@@ -29,6 +30,8 @@ namespace carrement
 
             _withTile = _width / NB_TILES_WIDTH;
             _heightTile = _height / NB_TILES_HEIGHT;
+
+            _position = position;
         }
 
         /**
